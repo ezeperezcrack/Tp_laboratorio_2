@@ -1,0 +1,12 @@
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\bin\Release\TP1WFA.exe.config
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\bin\Release\TP1WFA.exe
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\bin\Release\TP1WFA.pdb
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\bin\Release\TP1WFA.exe.CodeAnalysisLog.xml
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\bin\Release\TP1WFA.exe.lastcodeanalysissucceeded
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\bin\Release\Tp1_Calculadora.exe
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\bin\Release\Tp1_Calculadora.pdb
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\obj\Release\TP1WFA.csprojResolveAssemblyReference.cache
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\obj\Release\TP1WFA.Form1.resources
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\obj\Release\TP1WFA.csproj.GenerateResource.Cache
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\obj\Release\TP1WFA.exe
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\obj\Release\TP1WFA.pdb

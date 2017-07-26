@@ -1,0 +1,30 @@
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\TP1WFA\bin\Debug\TP1WFA.exe.config
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\TP1WFA\obj\Debug\TP1WFA.csprojResolveAssemblyReference.cache
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\TP1WFA\obj\Debug\TP1WFA.Form1.resources
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\TP1WFA\obj\Debug\TP1WFA.csproj.GenerateResource.Cache
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\TP1WFA\bin\Debug\TP1WFA.exe
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\TP1WFA\bin\Debug\TP1WFA.pdb
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\TP1WFA\bin\Debug\Tp1_Calculadora.exe
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\TP1WFA\bin\Debug\Tp1_Calculadora.pdb
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\TP1WFA\obj\Debug\TP1WFA.exe
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\TP1WFA\obj\Debug\TP1WFA.pdb
+C:\Users\eze.cyw-PC\Desktop\segudo cuatri\Eze\TP1WFA\bin\Debug\TP1WFA.exe.config
+C:\Users\eze.cyw-PC\Desktop\segudo cuatri\Eze\TP1WFA\obj\Debug\TP1WFA.exe
+C:\Users\eze.cyw-PC\Desktop\segudo cuatri\Eze\TP1WFA\obj\Debug\TP1WFA.pdb
+C:\Users\eze.cyw-PC\Desktop\segudo cuatri\Eze\TP1WFA\bin\Debug\TP1WFA.exe
+C:\Users\eze.cyw-PC\Desktop\segudo cuatri\Eze\TP1WFA\bin\Debug\TP1WFA.pdb
+C:\Users\eze.cyw-PC\Desktop\segudo cuatri\Eze\TP1WFA\bin\Debug\Tp1_Calculadora.exe
+C:\Users\eze.cyw-PC\Desktop\segudo cuatri\Eze\TP1WFA\bin\Debug\Tp1_Calculadora.pdb
+C:\Users\eze.cyw-PC\Desktop\segudo cuatri\Eze\TP1WFA\obj\Debug\TP1WFA.csprojResolveAssemblyReference.cache
+C:\Users\eze.cyw-PC\Desktop\segudo cuatri\Eze\TP1WFA\obj\Debug\TP1WFA.Form1.resources
+C:\Users\eze.cyw-PC\Desktop\segudo cuatri\Eze\TP1WFA\obj\Debug\TP1WFA.csproj.GenerateResource.Cache
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\bin\Debug\TP1WFA.exe.config
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\obj\Debug\TP1WFA.exe
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\obj\Debug\TP1WFA.pdb
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\bin\Debug\TP1WFA.exe
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\bin\Debug\TP1WFA.pdb
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\bin\Debug\Tp1_Calculadora.exe
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\bin\Debug\Tp1_Calculadora.pdb
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\obj\Debug\TP1WFA.csprojResolveAssemblyReference.cache
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\obj\Debug\TP1WFA.Form1.resources
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\TP1WFA\obj\Debug\TP1WFA.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\Tp1_Calculadora\bin\Release\Tp1_Calculadora.exe.config
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\Tp1_Calculadora\bin\Release\Tp1_Calculadora.exe
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\Tp1_Calculadora\bin\Release\Tp1_Calculadora.pdb
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\Tp1_Calculadora\bin\Release\Tp1_Calculadora.exe.CodeAnalysisLog.xml
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\Tp1_Calculadora\bin\Release\Tp1_Calculadora.exe.lastcodeanalysissucceeded
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\Tp1_Calculadora\obj\Release\Tp1_Calculadora.exe
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-01\Tp1_Calculadora\obj\Release\Tp1_Calculadora.pdb

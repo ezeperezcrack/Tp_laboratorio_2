@@ -1,0 +1,12 @@
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\Tp1_Calculadora\bin\Debug\Tp1_Calculadora.exe.config
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\Tp1_Calculadora\bin\Debug\Tp1_Calculadora.exe
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\Tp1_Calculadora\bin\Debug\Tp1_Calculadora.pdb
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\Tp1_Calculadora\obj\Debug\Tp1_Calculadora.exe
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\Tp1_Calculadora\obj\Debug\Tp1_Calculadora.pdb
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\Tp1_Calculadora\obj\Debug\Tp1_Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\eze.cyw-PC\Desktop\segudo cuatri\Eze\Tp1_Calculadora\bin\Debug\Tp1_Calculadora.exe.config
+C:\Users\eze.cyw-PC\Desktop\segudo cuatri\Eze\Tp1_Calculadora\bin\Debug\Tp1_Calculadora.exe
+C:\Users\eze.cyw-PC\Desktop\segudo cuatri\Eze\Tp1_Calculadora\bin\Debug\Tp1_Calculadora.pdb
+C:\Users\eze.cyw-PC\Desktop\segudo cuatri\Eze\Tp1_Calculadora\obj\Debug\Tp1_Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\eze.cyw-PC\Desktop\segudo cuatri\Eze\Tp1_Calculadora\obj\Debug\Tp1_Calculadora.exe
+C:\Users\eze.cyw-PC\Desktop\segudo cuatri\Eze\Tp1_Calculadora\obj\Debug\Tp1_Calculadora.pdb
