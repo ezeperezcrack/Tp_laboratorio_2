@@ -1,0 +1,6 @@
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-02\Entidades\bin\Release\Entidades.dll
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-02\Entidades\bin\Release\Entidades.pdb
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-02\Entidades\bin\Release\Entidades.dll.CodeAnalysisLog.xml
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-02\Entidades\bin\Release\Entidades.dll.lastcodeanalysissucceeded
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-02\Entidades\obj\Release\Entidades.dll
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-02\Entidades\obj\Release\Entidades.pdb

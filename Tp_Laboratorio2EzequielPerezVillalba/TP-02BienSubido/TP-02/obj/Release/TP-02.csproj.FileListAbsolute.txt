@@ -1,0 +1,10 @@
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-02\TP-02\bin\Release\TP-02.exe.config
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-02\TP-02\bin\Release\TP-02.exe
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-02\TP-02\bin\Release\TP-02.pdb
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-02\TP-02\bin\Release\TP-02.exe.CodeAnalysisLog.xml
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-02\TP-02\bin\Release\TP-02.exe.lastcodeanalysissucceeded
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-02\TP-02\bin\Release\Entidades.dll
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-02\TP-02\bin\Release\Entidades.pdb
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-02\TP-02\obj\Release\TP-02.csprojResolveAssemblyReference.cache
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-02\TP-02\obj\Release\TP-02.exe
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-02\TP-02\obj\Release\TP-02.pdb
