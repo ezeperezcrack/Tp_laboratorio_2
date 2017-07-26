@@ -1,0 +1,11 @@
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-03\PerezVillalba.EzequielDario.2C.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-03\PerezVillalba.EzequielDario.2C.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-03\PerezVillalba.EzequielDario.2C.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-03\PerezVillalba.EzequielDario.2C.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-03\PerezVillalba.EzequielDario.2C.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-03\PerezVillalba.EzequielDario.2C.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-03\PerezVillalba.EzequielDario.2C.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-03\PerezVillalba.EzequielDario.2C.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-03\PerezVillalba.EzequielDario.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-03\PerezVillalba.EzequielDario.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\eze.cyw-PC\Desktop\Tp_Laboratorio2EzequielPerezVillalba\TP-03\PerezVillalba.EzequielDario.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
